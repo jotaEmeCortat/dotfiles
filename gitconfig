@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = @users.noreply.github.com
+	email = jmcortat@gmail.com
 	name = jotaEme
